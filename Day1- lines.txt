@@ -12,7 +12,7 @@ Paste on CoreBABA
 
 Paste on CUCM
 - Lines 187 - 204 IP Add
-- Lines 207 - 220 Analog Phones
+- Lines 207 - 220 Analog Phones = to test csim start 9200
 - Lines 223 - 262 Telephony
 - Lines 265 - 276 Video Calls
 - Lines 279 - 283 Incoming Calls
